@@ -7,3 +7,6 @@
 
 ### 3. [성공과 실패를 결정하는 1% 네트워크 원리](https://wonsjung.tistory.com/category/CS/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC) </br>
 : 컴퓨터 네트워크의 기초적인 흐름도를 올바르게 이해하기 위한 목적으로 학습 및 정리
+
+### 4. [AWS 네트워크 기본 원리](https://wonsjung.tistory.com/category/CS/aws%20%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC) </br>
+: AWS 클라우드 네트워크에 대한 전반적인 흐름과 주요 서비스에 대한 이해를 위한 목적으로 학습 및 정리

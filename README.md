@@ -13,3 +13,6 @@
 
 ### 5. [AWS 네트워크 기본 원리](https://wonsjung.tistory.com/category/CS/aws%20%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC) </br>
 : AWS 클라우드 네트워크에 대한 전반적인 흐름과 주요 서비스에 대한 이해를 위한 목적으로 학습 및 정리
+
+### 6. [컴퓨터 운영체제](https://wonsjung.tistory.com/category/CS/OS) </br>
+: 운영체제(Operating System, OS)는 컴퓨터 시스템의 하드웨어와 소프트웨어를 관리하고 제어하는 시스템 소프트웨어이다. 또한, 컴퓨터의 핵심적인 기능을 지원하며, 사용자 및 다른 소프트웨어가 하드웨어와 상호작용할 수 있도록 한다. 
